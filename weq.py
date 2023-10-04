@@ -5,6 +5,10 @@ def f(i):
             for i in 5:
                 for i in 5:
                     for i in 5:
+        if 1>2:
+            if 1 > 2:
+                if 1 > 2:
+                    if 1 > 2:
         return True
     else:
         return False
